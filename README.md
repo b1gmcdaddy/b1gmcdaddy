@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://wpvip.edutopia.org/wp-content/uploads/2023/02/hero_feature_Sleep_illustration_Federico-Gastaldi.gif](https://thestrugglingctastudent.files.wordpress.com/2017/06/img_5527-1.gif)?resize=2880,1620&quality=85" align="center" height="250" width="600" />
+<img src="https://thestrugglingctastudent.files.wordpress.com/2017/06/img_5527-1.gif?resize=2880,1620&quality=85" align="center" height="250" width="600" />
 </div>  
   
 

@@ -31,7 +31,7 @@
 
 <br/>  
 
-<div align="center"> 👍 Tech Interests: Mobile Development and Cybersecurity</div>  
+<div align="center"> 👍 Tech Interests: Mobile Development and Cloud Computing</div>  
   
 
 <div align="center"> 📘 Currently Learning: Flutter and MERN Stack</div>  

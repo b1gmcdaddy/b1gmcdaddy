@@ -26,7 +26,7 @@
 </div>  
   
 
-<div align="center">Aspiring Full Stack Developer</div>  
+<div align="center">Aspiring Full Stack Developer/Tambay</div>  
   
 
 <br/>  

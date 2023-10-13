@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">Hey 👋, I'm Jolo Tangpuz</div>  
+## <div align="center">Hey there👋</div>  
   
 
 <div align="center">

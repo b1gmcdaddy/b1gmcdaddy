@@ -22,7 +22,7 @@
 </div>  <br />
   
 
-<div align="center">Your Friendly Neighborhood Third Year BSIT Student
+<div align="center">Your Friendly Neighborhood BSIT Student
 </div>  
   
 

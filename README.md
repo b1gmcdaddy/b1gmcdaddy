@@ -34,7 +34,7 @@
 <div align="center"> 👍 Tech Interests: Mobile Development and Cloud Computing</div>  
   
 
-<div align="center"> 📘 Currently Learning: Flutter, Firebase, and Framer</div>  
+<div align="center"> 📘 Currently Learning: Flutter and Firebase</div>  
   
 
 <div align="center">⚡ Hope to retire early and put up the biggest club/bar in Cebu</div>  

@@ -37,7 +37,7 @@
 <div align="center"> 📘 Currently Learning: Flutter and Firebase</div>  
   
 
-<div align="center">⚡ Hope to retire early and put up the biggest club/bar in Cebu</div>  
+<div align="center">⚡ Goal: Retire early and put up the biggest club/bar in Cebu</div>  
   
 
 <br/>  

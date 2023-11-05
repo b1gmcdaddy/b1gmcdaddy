@@ -27,16 +27,6 @@
 
 <div align="center">Aspiring Tambay / FullStack Dev</div>  
   
-
-<br/>  
-
-<div align="center"> 👍 Tech Interests: Mobile Development and Cloud Computing</div>  
-  
-
-<div align="center"> 📘 Currently Learning: Flutter, CI/CD, and Firebase</div>  
-  
-
-<div align="center">⚡ Goal: Retire early and put up the biggest club/bar in Cebu</div>  
   
 
 <br/>  

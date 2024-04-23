@@ -25,7 +25,7 @@
 <div align="center">Your Friendly Neighborhood BSIT Student</div>  
   
 
-<div align="center">Aspiring Tambay / FullStack Dev</div>  
+<div align="center">Aspiring Taambay / FullStack Dev</div>  
   
   
 

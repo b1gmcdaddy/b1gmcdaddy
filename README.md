@@ -23,8 +23,9 @@
   
 
 <div align="center">Your Friendly Neighborhood BSIT Student</div>  
-<div align="center">Aspiring Tambay / FullStack Developer</div>  
+<div align="center">Aspiring Tambay/FullStack Developer</div>  
 <div align="center">Portfolio Website: <a href="https://jolotangpuz.vercel.app/">https://jolotangpuz.vercel.app/</a></div>  
+
   
   
 

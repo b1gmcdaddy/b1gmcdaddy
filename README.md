@@ -23,7 +23,7 @@
   
 
 <div align="center">Your Friendly Neighborhood BSIT Student</div>  
-<div align="center">Aspiring <i>Tambay</i>/FullStack Developer</div>  
+<div align="center">Aspiring <i>Tambay</i>/Software Developer</div>  
   
   
 
